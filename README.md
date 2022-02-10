@@ -1,1 +1,3 @@
-# platform_view_flutter
+# platfomview
+
+Ứng dụng hiển thị giao diện naview android bằng flutter
